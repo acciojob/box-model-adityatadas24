@@ -11,19 +11,19 @@
 }
 
 
-.item-1{
+.green{
 	width:100px;
 	height:100px;
 	background-color:green;
 	border-radius:50%
 }
-.item-2{
+.yellow{
 	width:100px;
 	height:100px;
 	background-color:yellow;
 	border-radius:50%
 }
-.item-3{
+.red{
 	width:100px;
 	height:100px;
 	background-color:red;
